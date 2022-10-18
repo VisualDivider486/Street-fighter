@@ -1,0 +1,24 @@
+********LEFT PLAYER *****************
+
+    -----------Command Keys------------------
+
+A             (LEFT)
+D            (RIGHT)
+W           (JUMP)
+
+1             (ATTACK)  	          //damage low
+2             (ATTACK)              //damage medium
+3             (ATTACK )             //damage high
+S             (DEFENSE)           //can't attack while using it
+
+ **********RIGHT PLAYER**************
+----------------Command Keys-----------------
+
+Left Arrow               (LEFT)
+Right Arrow             (RIGHT)
+Up Arrow                 (JUMP)
+
+J                           (ATTACK)  //damage low
+K                          (ATTACK) //damage medium
+L                          (ATTACK ) //damage high
+Down Arrow     (DEFENSE)
